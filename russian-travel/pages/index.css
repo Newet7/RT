@@ -1,9 +1,11 @@
 /* Файл normalize.css */
 @import url(../vendor/normalize.css);
 
+/* Шрифт Inter*/
+@import url(../fonts/Inter-Web/inter.css);
+
 /* Общий блок для всей страницы */
 @import url(../blocks/page/page.css);
-
 
 /* page */
 @import url(../blocks/page/page.css);
