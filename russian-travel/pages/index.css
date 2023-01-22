@@ -12,9 +12,20 @@
 
 /* content */
 @import url(../blocks/content/content.css);
+@import url(../blocks/content/__main-section/content__main-section.css);
+@import url(../blocks/content/__element/content__element.css);
+@import url(../blocks/content/__element/_follow-grid/content__element_follow-grid_size-s.css);
+@import url(../blocks/content/__element/_follow-grid/content__element_follow-grid_size-m.css);
+@import url(../blocks/content/__element/_follow-grid/content__element_follow-grid_size-l.css);
+@import url(../blocks/content/__element/_follow-grid/content__element_follow-grid_size-xl-standard.css);
+@import url(../blocks/content/__element/_follow-grid/content__element_follow-grid_size-xl-narrow.css);
 
 /* Header */
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-link-list/header__lang-link-list.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 /* lead */
 @import url(../blocks/lead/lead.css);

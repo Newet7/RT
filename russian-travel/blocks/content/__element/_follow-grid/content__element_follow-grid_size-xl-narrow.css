@@ -1,0 +1,7 @@
+/* Увеличенные поля элементов на очень большом экране 1280...*/
+@media screen and (min-width: 1280px) {
+  .content__element_follow-grid_size-xl-narrow {
+    max-width: calc(1280px - 2 * 48px);
+    width: calc(100% - 2 * 48px);
+  }
+}
